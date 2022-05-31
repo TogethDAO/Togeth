@@ -1,3 +1,8 @@
+# *TogethDAO*
+[Demo Video](https://youtu.be/TlvsHnNld5k)
+
+[Demo Site](http://203.195.224.157:3000/)
+
 # Togethdao Introduction
 
 ## A brief introduction: why we want to build TogethDAO? 
